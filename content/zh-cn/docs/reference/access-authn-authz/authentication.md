@@ -1437,7 +1437,7 @@ to interpret the credential format produced by the client plugin.
 <!--
 Earlier versions of `kubectl` included built-in support for authenticating to AKS and GKE, but this is no longer present.
 -->
-早期版本的 `kubectl` 包含对 AKS 和 GKE 身份验证的内置支持，但现在已不存在。
+早期版本的 `kubectl` 对 AKS 和 GKE 身份验证进行了内部支持，但现在版本已经不再支持。
 {{< /note >}}
 
 <!--
